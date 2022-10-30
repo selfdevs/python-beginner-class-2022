@@ -39,10 +39,11 @@ If you want to join our Discord Server and participate in the weekly online Pyth
 ## Creator
 **Long Integer**
 >I am a full-time Data Engineer & Content Creator helping you breaking into the world of Data and learn Python from scratch.
-I also create content on YouTube, Instagram, Discord and host a [6min Talk Show](https://www.youtube.com/watch?v=67F1Ada-3bM&list=PLnylL1gKkCV6YMnTp-oUvETHwzhDzfEDU) where I talk about Data, Python, Productivity and everything in between.
+I also create content on YouTube, Instagram, Discord and host a [5min Talk Show](https://www.youtube.com/watch?v=67F1Ada-3bM&list=PLnylL1gKkCV6YMnTp-oUvETHwzhDzfEDU) where I talk about Data, Python, Productivity and everything in between.
 
 [SELF.DEV community](https://theselfdev.com)
 
 [Get in touch](https://beacons.ai/longinteger)
 
 [GitHub](https://github.com/longinteger017)
+
