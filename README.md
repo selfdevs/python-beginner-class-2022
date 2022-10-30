@@ -18,17 +18,16 @@ If you already have some experience with programming, you can start with the tas
 
 ## Watch the YouTube Playlist
 If you want to watch the videos of the weekly online Python class, you can find them on our YouTube channel.
-### Python Class - YouTube Playlist:
-[![SELFDEV YouTube Playlist of the Python Class](https://i.ytimg.com/vi/OucYXP932UA/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBRklmOF1v0kV9hoP-iSWx0-RAheA)](https://www.youtube.com/watch?v=OucYXP931UA&list=PLnylL1gKkCV4ai5aDKH1GoOhtjDh7pWXf)
 
+[YouTube Python Class Playlist](https://www.youtube.com/watch?v=OucYXP931UA&list=PLnylL1gKkCV4ai5aDKH1GoOhtjDh7pWXf)
 
 ## How to use this repository
 This repository is structured in a way that you can easily find your way around.
-Each task has its own folder and inside it you will find a `description.md` file which describes the task and the goal.
+Each task has its own folder and inside it, you will find a `description.md` file which describes the task and the goal.
 
 
 ## Information about the class
-This class is hosted every Monday and Wednesday at `10pm CET`.
+This class is hosted every Monday and Wednesday at `9pm CET`.
 Find all recordings online on my YouTube channel.
 
 
@@ -44,6 +43,6 @@ I also create content on YouTube, Instagram, Discord and host a [6min Talk Show]
 
 [SELF.DEV community](https://theselfdev.com)
 
-[Instagram](https://instagram.com/long.integer)
+[Get in touch](https://beacons.ai/longinteger)
 
-[GitHub](https://github.com/longinteger018)
+[GitHub](https://github.com/longinteger017)
