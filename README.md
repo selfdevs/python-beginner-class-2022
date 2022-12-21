@@ -21,6 +21,15 @@ If you want to watch the videos of the weekly online Python class, you can find 
 
 [YouTube Python Class Playlist](https://www.youtube.com/watch?v=OucYXP931UA&list=PLnylL1gKkCV4ai5aDKH1GoOhtjDh7pWXf)
 
+## Resources
+  - [List of hundreds of resources](https://dataengineering.wiki/Learning+Resources) (Source: [/dataengineering](https://reddit.com/r/dataengineering) subreddit.)
+  - [CS50 Harvard Course](https://cs50.harvard.edu/python/2022/)
+  - [learnpython.org](https://learnpython.org/)
+  - [Automate The Boring Stuff](https://automatetheboringstuff.com/)
+  - [Data Engineering Vocabulary](https://towardsdatascience.com/complete-data-engineers-vocabulary-87967e374fad)
+
+
+
 ## How to use this repository
 This repository is structured in a way that you can easily find your way around.
 Each task has its own folder and inside it, you will find a `description.md` file which describes the task and the goal.
